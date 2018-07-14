@@ -1,5 +1,7 @@
 # custom files
-custom/
+# get jason custom for jason0 github...
+*.swp
+#custom/
 !custom/plugins/example
 !custom/example.zsh
 
